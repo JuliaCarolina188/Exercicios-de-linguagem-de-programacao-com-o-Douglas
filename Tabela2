@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="Pt-br">
+
+<head>
+<title>Tabela 6x3</title>
+</head>
+
+<body>
+
+<table style="margin: auto; margin-top: 50px">
+<tr><th colspan="5">Tabela 6x3</th></tr>
+<tr>
+	<td>col0</td>
+	<td>col1</td>
+	<td>col2</td>
+	<td>col3</td>
+</tr>
+<tr>
+	<td>lin1</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>lin2</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>lin3</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>lin4</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>lin5</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>lin6</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+</table>
+
+</body>
+
+<style>
+	table{
+	border: 2px solid black
+}
+th{
+	border: 2px solid black
+}
+td{
+	border: 2px solid black
+}
+table, th, td{font-size: 22px}
+</style>
+
+</html>
