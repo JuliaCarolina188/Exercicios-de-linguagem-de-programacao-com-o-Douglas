@@ -1,0 +1,52 @@
+<!DOCTYPE hmtl>
+<html>
+<head>
+	<title>Lista de formulários</title>
+</head>
+<body>
+
+<h1>Formulários</h1>
+
+<form name = "Form 1">
+<label>texto: </label><input name = "texto" type = "text" value=""></input>
+</form>
+
+<br>
+<form name = "Form 2">
+<label>senha: </label><input name = "senha" type = "password" value=""></input>
+</form>
+
+<br>
+<form name = "Form 3">
+<p>Escolha entre as opções do checkbox: 
+<label>Opção 1: </label><input name = "Checbox" type = "Checkbox" value="Opção 1"></input>
+<label>Opção 2: </label><input name = "Checbox" type = "Checkbox" value="Opção 2"></input>
+<label>Opção 3: </label><input name = "Checbox" type = "Checkbox" value="Opção 3"></input>
+<label>Opção 4: </label><input name = "Checbox" type = "Checkbox" value="Opção 4"></input>
+</p>
+<label>botão de resetar o fomrmulário: </label><input name="reset" type = "reset" value="resetar"></input>
+</form>
+
+<br>
+<form name = "Form 4">
+<p>Escolha uma entre as opções: 
+<label>Opção 1: </label><input name = "radio" type = "radio" value = "op1"></input>
+<label>Opção 2: </label><input name = "radio" type = "radio" value = "op2"></input>
+<label>Opção 3: </label><input name = "radio" type = "radio" value = "op3"></input>
+<label>Opção 4: </label><input name = "radio" type = "radio" value = "op4"></input>
+</p>
+<label>botão de resetar o fomrmulário: </label><input name="reset" type = "reset" value="resetar"></input>
+</form>
+
+<br>
+<form name = "Form 5">
+<label>botão: </label><input name="botão" type = "submit" value="Enviar"></input>
+</form>
+
+<br>
+<form name = "Form 6">
+<label>botão genérico: </label><input name="botão" type = "button" value="Botão"></input>
+</form>
+
+</body>
+</html>
