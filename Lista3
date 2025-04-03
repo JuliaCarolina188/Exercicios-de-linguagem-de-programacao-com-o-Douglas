@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="Pt-br">
+
+<head>
+<title>Lista 3</title>
+</head>
+
+<body>
+
+<div style="width: 500px; margin: auto; margin-top: 50px;">
+
+<h1 style="text-align: center; margin-bottom: 30px">Lista</h1>
+<dl>
+<dt>ONU</dt>
+<dd>Organização das Nações Unidas</dd>
+<dt>OAC</dt>
+<dd>Organização e Arquitetura de Computadores</dd>
+<dt>BH</dt>
+<dd>Bahia</dd>
+<dt>CFC</dt>
+<dd>Conselho Federal de Contabilidade</dd>
+</dl>
+
+</div>
+
+</body>
+
+<style>
+ul{}
+dd, dt{font-size: 22px}
+</style>
+
+</html>
