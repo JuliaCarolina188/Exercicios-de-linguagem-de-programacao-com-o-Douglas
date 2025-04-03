@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="Pt-br">
+
+<head>
+<title>Lista 2</title>
+</head>
+
+<body>
+
+<div style="width: 250px; margin: auto; margin-top: 50px;">
+<ol>
+<h1>Falmes Legais</h1></li>
+<li>Barbie: A princesa e a Popstar</li>
+<li>Anora</li>
+<li>Ultrakill</li>
+<li>Fernanda Torres</li>
+<li>50 tons de cinza</li>
+</ol>
+</div>
+
+</body>
+
+<style>
+ul{}
+li{font-size: 22px}
+</style>
+
+</html>
