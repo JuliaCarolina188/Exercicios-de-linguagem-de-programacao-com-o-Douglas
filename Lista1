@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="Pt-br">
+
+<head>
+<title>Lista 1</title>
+</head>
+
+<body>
+
+<div style="width: 250px; margin: auto; margin-top: 50px;">
+<ul>
+<h1>Times de futebol</h1></li>
+<li>Grêmio</li>
+<li>Internacional</li>
+<li>Vasco</li>
+<li>Palmeiras</li>
+<li>Atletico mineiro</li>
+<li>Santos</li>
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+<li>item 4</li>
+</ul>
+</div>
+
+</body>
+
+<style>
+ul{}
+*{font-size: 22px}
+</style>
+
+</html>
